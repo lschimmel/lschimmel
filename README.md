@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lschimmel
 - 👀 I’m interested in ML, AI, and neuroscience.
-- 🌱 I’m currently learning C, python, SQL
+- 🌱 I’m currently learning python, java, C and SQL
 - 💞️ One day, I hope to develop a ML algorithm to detect trends in music. My first step: I've coded a program to Chart Swearing in Charting songs on the Billboard Top 100.
 - 📫 How to reach me https://www.linkedin.com/in/lschimmel/
 
